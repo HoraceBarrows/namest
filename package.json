@@ -1,0 +1,16 @@
+{
+  "name": "namest",
+  "version": "1.0.0",
+  "description": "this is a anjularjs-directive to download file from client. This little project is to create a easy way to export data to ngExcel and download only with anjular-js;",
+  "main": "ngExcel.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoraceBarrows/namest.git"
+  },
+  "keywords": [
+    "eius",
+    "est"
+  ],
+  "author": "BellaKilback",
+  "license": "ISC"
+}
